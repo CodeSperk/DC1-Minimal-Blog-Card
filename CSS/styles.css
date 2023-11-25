@@ -12,7 +12,7 @@
   align-items: center;
   font-family: 'Sora', sans-serif;
   background-color: #FAFAF9;
-  width: 640px;
+  max-width: 640px;
 }
 #card{
   background-color: #FFFFFF ;
