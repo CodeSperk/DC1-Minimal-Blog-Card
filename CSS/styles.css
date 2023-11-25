@@ -42,6 +42,7 @@ button{
   font-size: 0.625rem;
   padding: 4px 16px;
   margin: 16px 0;
+  cursor: pointer;
 }
 h2{
   font-size: 1.125rem;
@@ -56,13 +57,11 @@ p{
 h6{
   color:#6C727F;
   font-size: 0.75rem;
+  padding: 0 16px;
 }
 hr{
   margin: 20px 0;
   color:#6C727F;
-}
-h6{
-  padding: 0 16px;
 }
 
 @media only screen and (min-width: 768px) {
